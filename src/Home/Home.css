@@ -1,5 +1,8 @@
 .fuente{
     color: #0033a0;
-    font-style: italic;
+    font-style:normal
+}
+p{
+    text-align:justify;
 }
 
